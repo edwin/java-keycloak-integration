@@ -7,7 +7,7 @@ Connecting between Java Application with Keycloak for Authentication and Authori
  - Spring Boot
  - Keycloak 4.8.3
  
- ## Keycloak APIs
+ ## Keycloak API
  - Login API
  - Logout API
  - User Info API
